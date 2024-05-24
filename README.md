@@ -53,7 +53,4 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 **Acknowledgments:**
 
 - This project was created as part of an assignment for BDD Cucumber testing with Selenium.
-- Special thanks to the instructors and mentors for their guidance and support.
 
----
-Feel free to customize this README file according to your project's specifics and personal preferences!
